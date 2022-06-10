@@ -1,4 +1,6 @@
 [//]: # ([![MasterHead]&#40;./img/developer3.gif&#41;]&#40;https://rishavchanda.io&#41;)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=TursunboyevJahongir&&theme=xcode)](https://github.com/TursunboyevJahongir)
+
 <h1 align="center">Hi 👋, I'm Jahongir Tursunboyev</h1>
 <h3 align="center">A passionate Backend developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="./img/developer.gif">
@@ -66,9 +68,8 @@ alt="sqlite" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </details>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TursunboyevJahongir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TursunboyevJahongir" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tursunboyevjahongir&show_icons=true&locale=en&layout=compact" alt="tursunboyevjahongir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tursunboyevjahongir&show_icons=true&locale=en&theme=tokyonight" alt="tursunboyevjahongir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tursunboyevjahongir&show_icons=true&locale=en" alt="tursunboyevjahongir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tursunboyevjahongir&" alt="tursunboyevjahongir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tursunboyevjahongir&theme=tokyonight" alt="tursunboyevjahongir" /></p>
