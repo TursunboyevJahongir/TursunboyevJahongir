@@ -8,7 +8,6 @@
 - 🤖 I like coding. I'm a **Php Developer**
 - 🔭 I’m currently working on [Pos system](daftar.uz)
 - 🌱 I’m currently learning **SwiftUi**
-- 📫 How to reach me **jah6332@gmail.com**
 - 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/jahongir-tursunboyev-backend-php-laravel/)
 - ⚡ Fun fact **I love solving complex problems and travel.**
 - 🏃 I love sport: Ping pong 🏓, football ⚽, basketball🏀, chess♟
