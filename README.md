@@ -4,23 +4,13 @@
 <img align="right" alt="Coding" width="400" src="./img/developer.gif">
 
 - 🤖 I like coding. I'm a **Php Developer**
-
 - 🔭 I’m currently working on [Pos system](daftar.uz)
-
 - 🌱 I’m currently learning **SwiftUi**
-
-- 👨‍💻 All of my projects are available at [github](https://github.com/TursunboyevJahongir?tab=repositories)
-
 - 💬 Ask me about **Php, Laravel**
-
 - 📫 How to reach me **jah6332@gmail.com**
-
 - 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/jahongir-tursunboyev-backend-php-laravel/)
-
 - ⚡ Fun fact **I love solving complex problems and travel.**
-
 - 🏃 I love sport: Ping pong 🏓, football ⚽, basketball🏀, chess♟
-
 - 🥅 2022 Goals: Learn Swift,SwiftUi
 
 <h3 align="left">Connect with me:</h3>
