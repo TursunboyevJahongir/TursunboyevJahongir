@@ -55,7 +55,7 @@ height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
 
 
-<details>
+<details><summary><b style="color:#355C7D;font-size:20px">And</b></summary>
 <a href="https://developer.apple.com/" target="_blank" rel="noreferrer"> <img src="./img/xcode.svg" 
 alt="Xcode" width="40" height="40"/> </a>
 <a href="https://www.yiiframework.com/" target="_blank" rel="noreferrer"> <img src="./img/yii-framework.svg" 
