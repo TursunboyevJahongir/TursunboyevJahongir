@@ -8,7 +8,6 @@
 - 🤖 I like coding. I'm a **Php Developer**
 - 🔭 I’m currently working on [Pos system](daftar.uz)
 - 🌱 I’m currently learning **SwiftUi**
-- 💬 Ask me about **Php, Laravel**
 - 📫 How to reach me **jah6332@gmail.com**
 - 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/jahongir-tursunboyev-backend-php-laravel/)
 - ⚡ Fun fact **I love solving complex problems and travel.**
@@ -24,6 +23,8 @@ alt="jahongir_tursunboyev_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tursunboyevjahongir" target="blank"><img align="center" src="./img/leetcode.svg" 
 alt="tursunboyevjahongir" height="30" width="40" /></a>
 <a href="https://t.me/JahongirTursunboyev" target="blank"><img align="center" src="./img/telegram.svg" 
+alt="JahongirTursunboyev" height="30" width="40" /></a>
+<a href="jah6332@gmail.com" target="blank"><img align="center" src="./img/gmail.svg" 
 alt="JahongirTursunboyev" height="30" width="40" /></a>
 </p>
 
