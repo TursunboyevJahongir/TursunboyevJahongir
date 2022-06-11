@@ -16,13 +16,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jahongir-tursunboyev-backend-php-laravel" target="blank"><img align="center" src="./img/linkedin.svg" alt="jahongir-tursunboyev-backend-php-laravel" height="30" width="40" /></a>
+<a href="https://t.me/JahongirTursunboyev" target="blank"><img align="center" src="./img/telegram.svg" 
+alt="JahongirTursunboyev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13050909/jahongir-tursunboyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13050909/jahongir-tursunboyev" height="30" width="40" /></a>
 <a href="https://instagram.com/jahongir_tursunboyev_" target="blank"><img align="center" src="./img/instagram.svg" 
 alt="jahongir_tursunboyev_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tursunboyevjahongir" target="blank"><img align="center" src="./img/leetcode.svg" 
 alt="tursunboyevjahongir" height="30" width="40" /></a>
-<a href="https://t.me/JahongirTursunboyev" target="blank"><img align="center" src="./img/telegram.svg" 
-alt="JahongirTursunboyev" height="30" width="40" /></a>
 <a href="mailto:jah6332@gmail.com" target="blank"><img align="center" src="./img/gmail.svg" 
 alt="JahongirTursunboyev" height="30" width="40" /></a>
 </p>
