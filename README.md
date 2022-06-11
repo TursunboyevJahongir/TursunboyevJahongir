@@ -37,8 +37,10 @@ alt="JahongirTursunboyev" height="30" width="40" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="50"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="./img/laravel.svg" alt="laravel" width="50" 
-height="50"/> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="./img/laravel.svg#gh-light-dark-only" alt="laravel" width="50"height="50"/> 
+    <img src="./img/laravel.gif#gh-dark-mode-only" alt="laravel" width="60" /> 
+</a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> </a>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="50" height="50"/> </a>
