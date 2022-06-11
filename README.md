@@ -1,8 +1,7 @@
 [//]: # ([![MasterHead]&#40;./img/developer3.gif&#41;]&#40;https://rishavchanda.io&#41;)
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=TursunboyevJahongir&&theme=xcode)](https://github.com/TursunboyevJahongir)
 
-<h1 align="center">Hi 👋, I'm Jahongir Tursunboyev</h1>
-<h3 align="center">A passionate Backend developer from Uzbekistan</h3>
+<h1 align="center">Hi there 👋</h1>
 
 <img align="right" alt="Coding" width="400" src="./img/freelance_day.gif#gh-light-mode-only">
 
