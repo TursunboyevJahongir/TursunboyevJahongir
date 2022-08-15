@@ -1,5 +1,5 @@
 [//]: # ([![MasterHead]&#40;./img/developer3.gif&#41;]&#40;https://rishavchanda.io&#41;)
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=TursunboyevJahongir&&theme=xcode)](https://github.com/TursunboyevJahongir)
+[//]: # ([![Sarthak's GitHub activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=TursunboyevJahongir&&theme=xcode&#41;]&#40;https://github.com/TursunboyevJahongir&#41;)
 
 <h1 align="center">Hi there 👋</h1>
 
