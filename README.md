@@ -1,7 +1,7 @@
 [//]: # ([![MasterHead]&#40;./img/developer3.gif&#41;]&#40;https://rishavchanda.io&#41;)
 [//]: # ([![Sarthak's GitHub activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=TursunboyevJahongir&&theme=xcode&#41;]&#40;https://github.com/TursunboyevJahongir&#41;)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=178A16&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Jahongir)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=7E7E7E&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Jahongir)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="./img/freelance_day.gif#gh-light-mode-only">
 
