@@ -15,12 +15,8 @@
 
 
 - 🤖 I like coding. I'm a **Php Developer**
-- 🔭 I’m currently working on [Pos system](https://daftar.uz)
-- 🌱 I’m currently learning **SwiftUi**
-- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/jahongir-tursunboyev-backend-php-laravel/)
-- ⚡ Fun fact **I love solving complex problems and travel.**
-- 🏃 I love sport: Ping pong 🏓, football ⚽, basketball🏀, chess♟
-- 🥅 2022 Goals: Learn Swift,SwiftUi
+- ⚡ **I love solving complex problems and travel.**
+- 🏃 I love sport: Ping pong 🏓, football ⚽, basketball🏀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
