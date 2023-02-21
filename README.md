@@ -15,6 +15,7 @@
 
 
 - 🤖 I like coding. I'm a **Php Developer**
+- 🧠  I'm learning backend, swift, swiftUi ...
 - ⚡ **I love solving complex problems and travel.**
 - 🏃 I love sport: Ping pong 🏓, football ⚽, basketball🏀
 
