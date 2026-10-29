@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jahongir-tursunboyev-backend-php-laravel" target="blank"><img align="center" src="./img/linkedin.svg" alt="jahongir-tursunboyev-backend-php-laravel" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jahongir-tursunboyev-backend-teamled" target="blank"><img align="center" src="./img/linkedin.svg" alt="jahongir-tursunboyev-backend-php-laravel" height="30" width="40" /></a>
 <a href="https://t.me/TursunboyevJahongir" target="blank"><img align="center" src="./img/telegram.svg" 
 alt="JahongirTursunboyev" height="30" width="40" /></a>
 <!--
