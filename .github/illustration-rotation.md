@@ -1,5 +1,8 @@
 # Profile illustration rotation
 
+Keep these operational notes under this filename. A README directly inside
+`.github/` takes precedence over the public profile README at the repository root.
+
 The scheduled workflow chooses one light and one dark illustration at minute 17
 of each hour. It updates only the marked picture block in the profile README
 and commits that file using GitHub's built-in token. No separate server,

@@ -12,6 +12,17 @@ README = (Path(__file__).resolve().parents[2] / "README.md").read_text(encoding=
 
 
 class RotationTests(unittest.TestCase):
+    def test_profile_readme_is_not_shadowed_by_github_documentation(self):
+        github_directory = Path(__file__).resolve().parents[1]
+        shadowing_files = [
+            path.name for path in github_directory.iterdir()
+            if path.is_file() and path.name.casefold().split(".")[0] == "readme"
+        ]
+        self.assertEqual(
+            shadowing_files, [],
+            "A README in .github overrides the root profile README on GitHub",
+        )
+
     def test_preserves_profile_text_and_social_icons_exactly(self):
         updated = rotation.rotate(README)
         self.assertEqual(README.split(rotation.START)[0], updated.split(rotation.START)[0])
