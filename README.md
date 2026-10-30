@@ -2,9 +2,9 @@
 
 <!-- profile-illustration:start -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./img/ai-agents-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./img/ai-collaboration-light.gif">
-  <img align="right" alt="Coding illustration" width="320" src="./img/ai-collaboration-light.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="./img/SpaceLamp.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif">
+  <img align="right" alt="Coding illustration" width="320" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif">
 </picture>
 <!-- profile-illustration:end -->
 
