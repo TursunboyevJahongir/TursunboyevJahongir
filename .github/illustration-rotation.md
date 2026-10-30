@@ -8,9 +8,9 @@ of each hour. It updates only the marked picture block in the profile README
 and commits that file using GitHub's built-in token. No separate server,
 package installation or custom secret is required.
 
-The eight selected illustrations are listed in `scripts/rotate_illustrations.py`:
-six light options and two dark options. The previous image is excluded from each
-selection; the two dark options therefore alternate. The fallback image always
+The sixteen selected illustrations are listed in `scripts/rotate_illustrations.py`:
+ten light options and six dark options, including eight AI collaboration and humor
+animations. The previous image is excluded from each selection. The fallback image always
 matches the selected light option. Existing GIF files are never rewritten.
 
 Local checks and a single local rotation:

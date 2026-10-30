@@ -15,6 +15,10 @@ IMAGES = {
         "./img/freelance_day.gif",
         "./img/developer.gif",
         "./img/Designer.gif",
+        "./img/ai-collaboration-light.gif",
+        "./img/ai-cat-boss-light.gif",
+        "./img/ai-robot-classroom-light.gif",
+        "./img/ai-teach-your-neighbor-light.gif",
         # Coding Vibe (#4).
         "https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif",
         # Automatic Typing (#7).
@@ -25,6 +29,10 @@ IMAGES = {
     "dark": (
         "./img/freelance_night.gif",
         "./img/SpaceLamp.gif",
+        "./img/ai-agents-dark.gif",
+        "./img/ai-nap-time-dark.gif",
+        "./img/ai-bug-pingpong-dark.gif",
+        "./img/ai-code-review-dark.gif",
     ),
 }
 

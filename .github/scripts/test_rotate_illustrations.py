@@ -43,7 +43,7 @@ class RotationTests(unittest.TestCase):
             self.assertEqual(fallback, light)
             current = updated
 
-    def test_all_eight_selected_images_are_reachable(self):
+    def test_all_sixteen_selected_images_are_reachable(self):
         reached = set()
         for images in rotation.IMAGES.values():
             for image in images:
@@ -56,7 +56,7 @@ class RotationTests(unittest.TestCase):
                 seen = set(re.findall(r'srcset="([^"]+)"', first + second))
                 self.assertIn(image, seen)
                 reached.update(seen)
-        self.assertEqual(len(reached), 8)
+        self.assertEqual(len(reached), 16)
 
     def test_rejects_missing_duplicate_and_reversed_markers(self):
         malformed = (
