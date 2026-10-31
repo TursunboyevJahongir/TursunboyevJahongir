@@ -2,9 +2,9 @@
 
 <!-- profile-illustration:start -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./img/ai-agents-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
-  <img align="right" alt="Coding illustration" width="320" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="./img/ai-bug-pingpong-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./img/ai-cat-boss-light.gif">
+  <img align="right" alt="Coding illustration" width="320" src="./img/ai-cat-boss-light.gif">
 </picture>
 <!-- profile-illustration:end -->
 
