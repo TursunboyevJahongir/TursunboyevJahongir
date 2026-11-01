@@ -2,9 +2,9 @@
 
 <!-- profile-illustration:start -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./img/SpaceLamp.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./img/freelance_day.gif">
-  <img align="right" alt="Coding illustration" width="320" src="./img/freelance_day.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="./img/ai-nap-time-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./img/ai-robot-classroom-light.gif">
+  <img align="right" alt="Coding illustration" width="320" src="./img/ai-robot-classroom-light.gif">
 </picture>
 <!-- profile-illustration:end -->
 
