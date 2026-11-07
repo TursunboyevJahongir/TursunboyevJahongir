@@ -2,9 +2,9 @@
 
 <!-- profile-illustration:start -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./img/SpaceLamp.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./img/developer.gif">
-  <img align="right" alt="Coding illustration" width="320" src="./img/developer.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="./img/freelance_night.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+  <img align="right" alt="Coding illustration" width="320" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 </picture>
 <!-- profile-illustration:end -->
 
